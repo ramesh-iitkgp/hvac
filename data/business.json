@@ -1,0 +1,95 @@
+{
+  "business_name": "Apex Air Solutions & Heating",
+  "canonical_name": "Apex Air Solutions",
+  "tagline": "Precision Climate Engineering & Modern HVAC Solutions in Dallas",
+  "category": "HVAC Contractor",
+  "industry": "hvac",
+  "city": "Dallas",
+  "state": "TX",
+  "country": "United States",
+  "currency_symbol": "$",
+  "currency_code": "USD",
+  "phone": "+1 (214) 856-6489",
+  "whatsapp": "+12148566489",
+  "email": "service@apexairsolutions.com",
+  "address": "4520 Main St, Dallas, TX 75201",
+  "opening_hours": "Mon - Sat: 8:00 AM - 6:00 PM | Service Inquiries & Scheduling",
+  "hero_image": "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=1920&q=85",
+  "rating": 4.9,
+  "review_count": 184,
+  "stats": {
+    "feature_1_title": "Prompt Response",
+    "feature_1_desc": "Dedicated Service Scheduling",
+    "feature_2_title": "Heating & Cooling",
+    "feature_2_desc": "Complete System Care",
+    "feature_3_title": "Clear Estimates",
+    "feature_3_desc": "Transparent Upfront Pricing",
+    "feature_4_title": "Modern Solutions",
+    "feature_4_desc": "Quality Equipment & Parts"
+  },
+  "services": [
+    {
+      "name": "AC Diagnostic & Precision Repair",
+      "description": "Comprehensive troubleshooting for cooling systems, compressors, refrigerant flow, and digital climate sensors.",
+      "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=800&q=80",
+      "badge": "High Demand"
+    },
+    {
+      "name": "Smart Heat Pumps & Heating Systems",
+      "description": "Energy-efficient heating restoration, heat pump diagnostics, and precision digital furnace calibrations.",
+      "image": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=800&q=80",
+      "badge": "Efficiency"
+    },
+    {
+      "name": "Complete HVAC System Replacement",
+      "description": "Engineered installation for multi-stage central air, inverter heat pumps, and ductless mini-split systems.",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+      "badge": "Custom Install"
+    },
+    {
+      "name": "Preventative Seasonal Maintenance",
+      "description": "Comprehensive seasonal system tune-ups, coil cleansing, electrical testing, and performance optimization.",
+      "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+      "badge": "Protection"
+    },
+    {
+      "name": "Rapid Diagnostic Support",
+      "description": "Priority dispatch for unexpected summer AC shutdowns and winter heating system failures.",
+      "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80",
+      "badge": "Fast Response"
+    },
+    {
+      "name": "Commercial & Residential Air Solutions",
+      "description": "Advanced ventilation, multi-zone climate control, and air quality systems for residential and commercial spaces.",
+      "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+      "badge": "Commercial/Res"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Verified Customer Review",
+      "role": "Residential Cooling Service",
+      "rating": 5,
+      "text": "The diagnostic inspection was thorough and the technician explained everything clearly. Our AC was restored quickly and runs much quieter now.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "author": "Verified Customer Review",
+      "role": "Heating System Maintenance",
+      "rating": 5,
+      "text": "Professional service from start to finish. Upfront quote and great recommendations on optimizing our seasonal heating performance.",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "author": "Verified Customer Review",
+      "role": "HVAC System Replacement",
+      "rating": 5,
+      "text": "Clean, orderly installation and very knowledgeable crew. Our home stays evenly cooled even during 100°+ Dallas heatwaves.",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&q=80"
+    }
+  ],
+  "service_areas": [
+    "Dallas",
+    "Surrounding Communities"
+  ]
+}
