@@ -1,0 +1,71 @@
+{
+    "business_name": "Aircon Ducting Repair And New Installer Specialist",
+    "source_business_name": "Aircon Ducting Repair And New Installer Specialist",
+    "tagline": "Precision Climate Engineering & Modern HVAC Solutions in Dallas",
+    "category": "HVAC Contractor",
+    "phone": "60183827054",
+    "whatsapp": "",
+    "email": "",
+    "website_url": "",
+    "address": "",
+    "city": "Kuala Lumpur",
+    "state": "",
+    "country": "Malaysia",
+    "currency_symbol": "RM",
+    "currency_code": "MYR",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Aircon+Ducting+repair+and+new+Installer%28+specialist%29/data=!4m7!3m6!1s0xf3961a6192ad945:0xd15b87cd9d86f4f9!8m2!3d0.6634851!4d109.1677!16s%2Fg%2F11z3z5lw94!19sChIJRdkqGaZhOQ8R-fSGnc2HW9E?authuser=0&hl=en&g_ep=EgoyMDI2MDkwMS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Kuala Lumpur"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "AC Diagnostic & Precision Repair",
+            "description": "Comprehensive troubleshooting for cooling systems, compressors, refrigerant flow, and digital climate sensors.",
+            "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=800&q=80",
+            "badge": "High Demand"
+        },
+        {
+            "name": "Smart Heat Pumps & Heating Systems",
+            "description": "Energy-efficient heating restoration, heat pump diagnostics, and precision digital furnace calibrations.",
+            "image": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=800&q=80",
+            "badge": "Efficiency"
+        },
+        {
+            "name": "Complete HVAC System Replacement",
+            "description": "Engineered installation for multi-stage central air, inverter heat pumps, and ductless mini-split systems.",
+            "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+            "badge": "Custom Install"
+        },
+        {
+            "name": "Preventative Seasonal Maintenance",
+            "description": "Comprehensive seasonal system tune-ups, coil cleansing, electrical testing, and performance optimization.",
+            "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+            "badge": "Protection"
+        },
+        {
+            "name": "Rapid Diagnostic Support",
+            "description": "Priority dispatch for unexpected summer AC shutdowns and winter heating system failures.",
+            "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80",
+            "badge": "Fast Response"
+        },
+        {
+            "name": "Commercial & Residential Air Solutions",
+            "description": "Advanced ventilation, multi-zone climate control, and air quality systems for residential and commercial spaces.",
+            "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+            "badge": "Commercial/Res"
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
