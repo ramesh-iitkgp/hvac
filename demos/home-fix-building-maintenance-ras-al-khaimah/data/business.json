@@ -1,0 +1,71 @@
+{
+    "business_name": "Home Fix Building Maintenance",
+    "source_business_name": "Home Fix Building Maintenance",
+    "tagline": "Precision Climate Engineering & Modern HVAC Solutions in Dallas",
+    "category": "HVAC Contractor",
+    "phone": "971525112254",
+    "whatsapp": "971525112254",
+    "email": "info@homefix-uae.com",
+    "website_url": "https://homefix-uae.com/",
+    "address": "\nAl Jazeera Business Center - Building 2, 1st-floor office # 38 - Dahan - Ras Al Khaimah - United Arab Emirates",
+    "city": "Ras Al Khaimah",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "32",
+    "google_maps_url": "https://www.google.com/maps/place/Home+Fix+Building+Maintenance/data=!4m7!3m6!1s0x3ef675892a1c048f:0xf6addab108bad581!8m2!3d25.7802208!4d55.9335134!16s%2Fg%2F11wqd5x22c!19sChIJjwQcKol19j4RgdW6CLHarfY?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Ras Al Khaimah"
+    ],
+    "social": {
+        "instagram": "https://www.instagram.com/homefix_rak/",
+        "facebook": "https://www.facebook.com/homefixbuildingmaintenance/",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "AC Diagnostic & Precision Repair",
+            "description": "Comprehensive troubleshooting for cooling systems, compressors, refrigerant flow, and digital climate sensors.",
+            "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=800&q=80",
+            "badge": "High Demand"
+        },
+        {
+            "name": "Smart Heat Pumps & Heating Systems",
+            "description": "Energy-efficient heating restoration, heat pump diagnostics, and precision digital furnace calibrations.",
+            "image": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=800&q=80",
+            "badge": "Efficiency"
+        },
+        {
+            "name": "Complete HVAC System Replacement",
+            "description": "Engineered installation for multi-stage central air, inverter heat pumps, and ductless mini-split systems.",
+            "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+            "badge": "Custom Install"
+        },
+        {
+            "name": "Preventative Seasonal Maintenance",
+            "description": "Comprehensive seasonal system tune-ups, coil cleansing, electrical testing, and performance optimization.",
+            "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+            "badge": "Protection"
+        },
+        {
+            "name": "Rapid Diagnostic Support",
+            "description": "Priority dispatch for unexpected summer AC shutdowns and winter heating system failures.",
+            "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80",
+            "badge": "Fast Response"
+        },
+        {
+            "name": "Commercial & Residential Air Solutions",
+            "description": "Advanced ventilation, multi-zone climate control, and air quality systems for residential and commercial spaces.",
+            "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+            "badge": "Commercial/Res"
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
