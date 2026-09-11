@@ -1,0 +1,71 @@
+{
+    "business_name": "Ahmad Appliance Washing Machine Repair Services",
+    "source_business_name": "Ahmad Appliance Washing Machine Repair Services",
+    "tagline": "Precision Climate Engineering & Modern HVAC Solutions in Dallas",
+    "category": "HVAC Contractor",
+    "phone": "971504675375",
+    "whatsapp": "971504675375",
+    "email": "",
+    "website_url": "https://acairconditioninrepairgascookerstoveservice.xyz/",
+    "address": "\nTuscan Residences Arezzo 2 - Al Barsha South Fourth - Jumeirah Village Circle - Dubai - United Arab Emirates",
+    "city": "JVC Dubai",
+    "state": "",
+    "country": "UAE",
+    "currency_symbol": "AED ",
+    "currency_code": "AED",
+    "opening_hours": "",
+    "rating": "2",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Ahmad+Appliance+Washing+machine+Repair+services/data=!4m7!3m6!1s0x3e5f6dd0f47e577b:0x471e696289d8a9c8!8m2!3d25.0613875!4d55.2080561!16s%2Fg%2F11vwjkty8t!19sChIJe1d-9NBtXz4RyKnYiWJpHkc?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "JVC Dubai"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "AC Diagnostic & Precision Repair",
+            "description": "Comprehensive troubleshooting for cooling systems, compressors, refrigerant flow, and digital climate sensors.",
+            "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=800&q=80",
+            "badge": "High Demand"
+        },
+        {
+            "name": "Smart Heat Pumps & Heating Systems",
+            "description": "Energy-efficient heating restoration, heat pump diagnostics, and precision digital furnace calibrations.",
+            "image": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=800&q=80",
+            "badge": "Efficiency"
+        },
+        {
+            "name": "Complete HVAC System Replacement",
+            "description": "Engineered installation for multi-stage central air, inverter heat pumps, and ductless mini-split systems.",
+            "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+            "badge": "Custom Install"
+        },
+        {
+            "name": "Preventative Seasonal Maintenance",
+            "description": "Comprehensive seasonal system tune-ups, coil cleansing, electrical testing, and performance optimization.",
+            "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+            "badge": "Protection"
+        },
+        {
+            "name": "Rapid Diagnostic Support",
+            "description": "Priority dispatch for unexpected summer AC shutdowns and winter heating system failures.",
+            "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80",
+            "badge": "Fast Response"
+        },
+        {
+            "name": "Commercial & Residential Air Solutions",
+            "description": "Advanced ventilation, multi-zone climate control, and air quality systems for residential and commercial spaces.",
+            "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+            "badge": "Commercial/Res"
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
