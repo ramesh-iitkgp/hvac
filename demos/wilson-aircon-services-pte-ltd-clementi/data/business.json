@@ -1,0 +1,71 @@
+{
+    "business_name": "Wilson Aircon Services Pte Ltd",
+    "source_business_name": "Wilson Aircon Services Pte Ltd",
+    "tagline": "Precision Climate Engineering & Modern HVAC Solutions in Dallas",
+    "category": "HVAC Contractor",
+    "phone": "6581132177",
+    "whatsapp": "6581132177",
+    "email": "",
+    "website_url": "https://sg.ltddir.com/companies/wilson-aircon-services-pte-ltd/",
+    "address": "\n48 Toh Guan Rd E, #08-135 Enterprise Hub, Singapore 608586",
+    "city": "Clementi",
+    "state": "",
+    "country": "Singapore",
+    "currency_symbol": "S$",
+    "currency_code": "SGD",
+    "opening_hours": "",
+    "rating": "4.7",
+    "review_count": "",
+    "google_maps_url": "https://www.google.com/maps/place/Wilson+Aircon+Services+Pte+Ltd/data=!4m7!3m6!1s0x637d3552bd9bb96b:0x983e31b50a0a55e9!8m2!3d1.3362538!4d103.7540145!16s%2Fg%2F11yp9ykk9l!19sChIJa7mbvVI1fWMR6VUKCrUxPpg?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Clementi"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "AC Diagnostic & Precision Repair",
+            "description": "Comprehensive troubleshooting for cooling systems, compressors, refrigerant flow, and digital climate sensors.",
+            "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=800&q=80",
+            "badge": "High Demand"
+        },
+        {
+            "name": "Smart Heat Pumps & Heating Systems",
+            "description": "Energy-efficient heating restoration, heat pump diagnostics, and precision digital furnace calibrations.",
+            "image": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=800&q=80",
+            "badge": "Efficiency"
+        },
+        {
+            "name": "Complete HVAC System Replacement",
+            "description": "Engineered installation for multi-stage central air, inverter heat pumps, and ductless mini-split systems.",
+            "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+            "badge": "Custom Install"
+        },
+        {
+            "name": "Preventative Seasonal Maintenance",
+            "description": "Comprehensive seasonal system tune-ups, coil cleansing, electrical testing, and performance optimization.",
+            "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+            "badge": "Protection"
+        },
+        {
+            "name": "Rapid Diagnostic Support",
+            "description": "Priority dispatch for unexpected summer AC shutdowns and winter heating system failures.",
+            "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80",
+            "badge": "Fast Response"
+        },
+        {
+            "name": "Commercial & Residential Air Solutions",
+            "description": "Advanced ventilation, multi-zone climate control, and air quality systems for residential and commercial spaces.",
+            "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+            "badge": "Commercial/Res"
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
