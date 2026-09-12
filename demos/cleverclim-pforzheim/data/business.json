@@ -1,0 +1,71 @@
+{
+    "business_name": "Cleverclim",
+    "source_business_name": "Cleverclim",
+    "tagline": "Precision Climate Engineering & Modern HVAC Solutions in Dallas",
+    "category": "HVAC Contractor",
+    "phone": "491777977601",
+    "whatsapp": "491777977601",
+    "email": "",
+    "website_url": "https://www.cleverclim.de",
+    "address": "",
+    "city": "Pforzheim",
+    "state": "",
+    "country": "Germany",
+    "currency_symbol": "€",
+    "currency_code": "EUR",
+    "opening_hours": "",
+    "rating": "5",
+    "review_count": "14",
+    "google_maps_url": "https://www.google.com/maps/place/Cleverclim/data=!4m7!3m6!1s0x4fb0e1624b90147:0x11299a602379d01b!8m2!3d48.6618313!4d9.003688!16s%2Fg%2F11yxy1v027!19sChIJRwG5JBYO-wQRG9B5I2CaKRE?authuser=0&hl=en&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+    "logo_url": "",
+    "hero_image": "",
+    "service_areas": [
+        "Pforzheim"
+    ],
+    "social": {
+        "instagram": "",
+        "facebook": "",
+        "tiktok": ""
+    },
+    "before_after_pairs": [],
+    "services": [
+        {
+            "name": "AC Diagnostic & Precision Repair",
+            "description": "Comprehensive troubleshooting for cooling systems, compressors, refrigerant flow, and digital climate sensors.",
+            "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=800&q=80",
+            "badge": "High Demand"
+        },
+        {
+            "name": "Smart Heat Pumps & Heating Systems",
+            "description": "Energy-efficient heating restoration, heat pump diagnostics, and precision digital furnace calibrations.",
+            "image": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=800&q=80",
+            "badge": "Efficiency"
+        },
+        {
+            "name": "Complete HVAC System Replacement",
+            "description": "Engineered installation for multi-stage central air, inverter heat pumps, and ductless mini-split systems.",
+            "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+            "badge": "Custom Install"
+        },
+        {
+            "name": "Preventative Seasonal Maintenance",
+            "description": "Comprehensive seasonal system tune-ups, coil cleansing, electrical testing, and performance optimization.",
+            "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+            "badge": "Protection"
+        },
+        {
+            "name": "Rapid Diagnostic Support",
+            "description": "Priority dispatch for unexpected summer AC shutdowns and winter heating system failures.",
+            "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80",
+            "badge": "Fast Response"
+        },
+        {
+            "name": "Commercial & Residential Air Solutions",
+            "description": "Advanced ventilation, multi-zone climate control, and air quality systems for residential and commercial spaces.",
+            "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+            "badge": "Commercial/Res"
+        }
+    ],
+    "business_images": [],
+    "reviews": []
+}
