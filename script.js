@@ -1,13 +1,26 @@
-// WebKartX HVAC Style 2 (ThermoPro Apex) Dynamic Engine
 document.addEventListener("DOMContentLoaded", async () => {
+  let data = {};
   try {
     const res = await fetch("data/business.json");
-    if (!res.ok) throw new Error("Could not load business.json");
-    const data = await res.json();
-    renderBusinessDataV2(data);
+    if (res.ok) {
+      data = await res.json();
+    }
   } catch (err) {
     console.warn("Using default HVAC Style 2 data:", err);
   }
+
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get("name") || urlParams.get("business_name")) {
+    data.business_name = urlParams.get("name") || urlParams.get("business_name");
+  }
+  if (urlParams.get("city")) {
+    data.city = urlParams.get("city");
+  }
+  if (urlParams.get("phone")) {
+    data.phone = urlParams.get("phone");
+  }
+
+  renderBusinessDataV2(data);
 
   // Initialize Interactive Estimate Calculator
   initEstimateCalculator();
@@ -48,14 +61,17 @@ function renderBusinessDataV2(data) {
   // Tagline & Hero Description
   const taglineEl = document.getElementById("hero-title-v2");
   if (taglineEl) {
-    taglineEl.textContent = data.tagline
-      ? data.tagline
-      : `Precision Climate Engineering & HVAC Solutions in ${city.toUpperCase()}`;
+    if (data.tagline) {
+      const cleanTagline = data.tagline.replace(new RegExp(`\\s+in\\s+${city}.*$`, 'i'), '').trim();
+      taglineEl.innerHTML = `<span class="hero-title-prefix">Engineered Climate Precision by</span> <span class="hero-brand-name brand-name-text">${bName}</span> <span class="hero-title-sub">${cleanTagline} in <span class="dynamic-city">${city}</span></span>`;
+    } else {
+      taglineEl.innerHTML = `<span class="hero-title-prefix">Engineered Climate Precision by</span> <span class="hero-brand-name brand-name-text">${bName}</span> <span class="hero-title-sub">Heating, Cooling &amp; Industrial Systems in <span class="dynamic-city">${city}</span></span>`;
+    }
   }
 
   const heroDescEl = document.getElementById("hero-desc-v2");
   if (heroDescEl) {
-    heroDescEl.textContent = `High-efficiency heating, precision cooling diagnostics, and custom HVAC engineering for residential and commercial properties in ${city} and surrounding areas.`;
+    heroDescEl.innerHTML = `High-efficiency heating restorations, precision cooling diagnostics, and commercial-grade HVAC engineering executed by <strong style="color: var(--heat-blaze);">${bName}</strong> in ${city} and surrounding communities.`;
   }
 
   // City Elements
